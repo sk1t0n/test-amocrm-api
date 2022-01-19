@@ -1,0 +1,19 @@
+{
+  "name": "test-amocrm-api",
+  "version": "1.0.0",
+  "description": "Test AmoCRM API",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node ./src/index.js"
+  },
+  "keywords": [
+    "amocrm",
+    "api"
+  ],
+  "author": "Anton Grabovsky <agrabovsky2020@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "dotenv": "^14.2.0"
+  }
+}
